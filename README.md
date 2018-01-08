@@ -1,2 +1,2 @@
-# Sourcetree-Cornerstone
+# Sourcetree
 Software Versioning.
