@@ -13,7 +13,7 @@ Cornerstone is an elegant SVN client designed specifically for the Mac. It is bu
 
 #### 下载地址
 
-[GitHub下载地址]()
+[GitHub下载地址](https://github.com/wenmobo/MAC-UtilitySoftwoare/tree/master/Cornerstone)
 
 ### Sourcetree
 
@@ -33,7 +33,7 @@ Simplicity and power in a beautiful Git GUI.
 
 [官方最新下载地址](https://downloads.atlassian.com/software/sourcetree/Sourcetree_2.7g.zip?_ga=2.14161982.845437131.1517497820-860903184.1517497820)
 
-[GitHub下载地址]()
+[GitHub下载地址](https://github.com/wenmobo/MAC-UtilitySoftwoare/tree/master/Cornerstone)
 
 ### shadowsocks
 
@@ -47,7 +47,7 @@ A secure socks5 proxy, designed to protect your Internet traffic.
 
 [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)
 
-[GitHub下载地址]()
+[GitHub下载地址](https://github.com/wenmobo/MAC-UtilitySoftwoare/tree/master/ShadowsocksX-NG)
 
 ### LICEcap
 
@@ -65,4 +65,4 @@ simple animated screen captures
 
 #### 下载地址
 
-[GitHub下载地址]()
+[GitHub下载地址](https://github.com/wenmobo/MAC-UtilitySoftwoare/tree/master/LICEcap)
