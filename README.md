@@ -1,5 +1,37 @@
+# 更新日志
+- **2018-06-20 添加软件分类目录**
 # 前言
 自己使用Mac OS X系统也有一段时间了，也使用过许多MAC上好用的软件，下面是我对使用过和了解的软件资源一些整理。以后可能也会接触使用新的软件，我也会对文章进行更新。
+# 软件分类目录
+> 版本控制软件
+> -  Cornerstone
+> -  Sourcetree
+> -  Tower
+> -  GitHubDesktop
+
+> 办公软件
+> - office2016
+
+> 效率软件
+> -  Alfred
+
+> 实用软件
+> -  Mounty
+> -  CleanMyMac
+> -  HideSwitch
+> -  LICEcap
+
+> iOS开发必备软件
+> -  Charles
+> -  Dash
+> -  真机调试包
+
+> 数据库管理软件
+> -  Navicat
+
+> 设计工具软件
+> -  Sketch
+
 # 版本控制软件
 ### Cornerstone
 > Cornerstone is an elegant SVN client designed specifically for the Mac. It is built on Subversion, a popular version control system well-known for its performance, flexibility, and scalability. Cornerstone excels in tracking & displaying changes to data; its comparison tools enable users to view differences in multi-language formats. Better yet, Planio is now integrated into the Cornerstone environment — so you can now easily sync a local folder with your [Planio repositories](https://plan.io/subversion-hosting-and-git-hosting/) using your Mac!  
@@ -10,8 +42,8 @@ MAC上一款优雅的SVN客服端，进入公司后，使用的第一款项目�
 #### [GitHub下载地址](https://github.com/wenmobo/MAC-UtilitySoftwoare/tree/master/Cornerstone)
 #### 百度网盘
 链接:`https://pan.baidu.com/s/1o9O4CGi` 密码:`fb14`
+![1615c2235a0ed7ce.png](http://upload-images.jianshu.io/upload_images/3072214-154b61f6b5a02dea.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![](https://user-gold-cdn.xitu.io/2018/2/3/1615c2235a0ed7ce?w=2424&h=1108&f=png&s=766927)
 ***
 ### Sourcetree
 > Simplicity and power in a beautiful Git GUI. 
@@ -22,19 +54,17 @@ MAC上一款优雅的SVN客服端，进入公司后，使用的第一款项目�
 #### [GitHub下载地址](https://github.com/wenmobo/MAC-UtilitySoftwoare/tree/master/Cornerstone)
 #### 百度网盘
 链接:`https://pan.baidu.com/s/1eTJvpMM` 密码:`urmg`
-
-![](https://user-gold-cdn.xitu.io/2018/2/3/1615c230b6d7a538?w=2338&h=1180&f=png&s=1071008)
+![1615c230b6d7a538.png](http://upload-images.jianshu.io/upload_images/3072214-4651c9309ef9d492.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ***
 ### Tower
 > Version control with Git - made easy.
-> In a beautiful, efficient, and powerful app.
+In a beautiful, efficient, and powerful app.
 
 MAC&&Windows平台上最好用的Git GUI客户端。不像Sourcetree，这个款软件是付费的，RMB大概500元左右，不过也有破解版的，我也没有使用过，感觉功能和Sourcetree差不多吧。
 #### 官方网址：[git-tower](https://www.git-tower.com/mac/)
 #### 百度网盘
 链接:`https://pan.baidu.com/s/1ggmPmkr`   密码: `8bm3`
-
-![](https://user-gold-cdn.xitu.io/2018/2/3/1615c241eaaa92fd?w=2336&h=1178&f=png&s=1520975)
+![1615c241eaaa92fd.png](http://upload-images.jianshu.io/upload_images/3072214-dd356ae00d042be9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ***
 ### GitHubDesktop
 > Extend your GitHub workflow beyond your browser with GitHub Desktop, completely redesigned with Electron. Get a unified cross-platform experience that’s completely open source and ready to customize.
@@ -43,8 +73,7 @@ MAC&&Windows平台上最好用的Git GUI客户端。不像Sourcetree，这个款
 #### 官方网址：[GitHubDesktop](https://desktop.github.com/)
 #### 百度网盘
 链接:`https://pan.baidu.com/s/1bqJ1xgF`  密码:`8tzk`
-
-![](https://user-gold-cdn.xitu.io/2018/2/3/1615c24c980cf290?w=2334&h=1186&f=png&s=272248)
+![1615c24c980cf290.png](http://upload-images.jianshu.io/upload_images/3072214-e46692e0517738f9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ***
 # 网络
 ### shadowsocks
@@ -55,8 +84,7 @@ MAC&&Windows平台上最好用的Git GUI客户端。不像Sourcetree，这个款
 #### [GitHub下载地址](https://github.com/wenmobo/MAC-UtilitySoftwoare/tree/master/ShadowsocksX-NG)
 #### 百度网盘
 链接:https://pan.baidu.com/s/1nvZLJFN  密码:cnyv
-
-![](https://user-gold-cdn.xitu.io/2018/2/3/1615c25c5bd46cef?w=2336&h=1172&f=png&s=285496)
+![1615c25c5bd46cef.png](http://upload-images.jianshu.io/upload_images/3072214-061e64edd8a2c6a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ***
 # iOS开发工具
 ### 真机调试包
@@ -73,8 +101,7 @@ MAC&&Windows平台上最好用的Git GUI客户端。不像Sourcetree，这个款
 #### [GitHub下载地址](https://github.com/wenmobo/MAC-UtilitySoftwoare/tree/master/LICEcap)
 #### 百度网盘
 链接:`https://pan.baidu.com/s/1i6bVLE9`  密码:`0cni`
-
-![](https://user-gold-cdn.xitu.io/2018/2/3/1615c2653920b32a?w=344&h=278&f=png&s=40398)
+![1615c2653920b32a.png](http://upload-images.jianshu.io/upload_images/3072214-f1db8f3ee1f03462.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ***
 ### Mounty
 > A tiny tool to re-mount write-protected NTFS volumes under Mac OS X 10.9+ in read-write mode.
@@ -87,24 +114,20 @@ brew cask install mounty
 ```
 #### 百度网盘
 链接:`https://pan.baidu.com/s/1i6BhDOh`  密码:`rs5j`
-
-![](https://user-gold-cdn.xitu.io/2018/2/3/1615c26f51c28ed2?w=294&h=264&f=png&s=45308)
+![1615c26f51c28ed2.png](http://upload-images.jianshu.io/upload_images/3072214-3e349bc7c647b3ef.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ***
 ### HideSwitch
 > 一款实用小工具，显示和隐藏系统隐藏文件，和Show Or Hide这个款软件类似。
 #### 百度网盘
 链接:`https://pan.baidu.com/s/1jJFjxu2`  密码:`r1kb`
-
-![](https://user-gold-cdn.xitu.io/2018/2/3/1615c2b4f7a59971?w=520&h=158&f=png&s=44167)
+![1615c2b4f7a59971.png](http://upload-images.jianshu.io/upload_images/3072214-36c2b541f852399f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ***
 ### CleanMyMac
 > MAC系统清理软件，MAC上非常值得推荐的一款软件，不过是需要付费的，不过也有破解版的哦。
 #### 官方中文网站：[mycleanmymac](http://www.mycleanmymac.com/)
 #### 百度网盘
 链接:`https://pan.baidu.com/s/1o96nJ9g`  密码:`rphk`
-
-
-![](https://user-gold-cdn.xitu.io/2018/2/3/1615c40a47f540b7?w=2192&h=1280&f=png&s=1045719)
+![屏幕快照 2018-02-03 下午11.19.21.png](http://upload-images.jianshu.io/upload_images/3072214-29d49e1a633a8a4f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ***
 ### Alfred
 > Alfred is an award-winning app for Mac OS X which boosts your efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac.
@@ -113,16 +136,14 @@ brew cask install mounty
 #### 官方网站：[Alfred](https://www.alfredapp.com/)
 #### 百度网盘
 链接:`https://pan.baidu.com/s/1gg9PNH5`  密码:`2r19`
-
-![](https://user-gold-cdn.xitu.io/2018/2/3/1615c1cb96707239?w=2420&h=1164&f=png&s=1066904)
+![1615c1cb96707239.png](http://upload-images.jianshu.io/upload_images/3072214-d7b81f5e3c369c3f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ***
 # 办公软件
 ### office2016
 > MAC平台下的办公软件。
 #### 百度网盘
 链接:`https://pan.baidu.com/s/1mjnuZmo`  密码:`urz4`
-
-![](https://user-gold-cdn.xitu.io/2018/2/3/1615c30cc3cfe199?w=962&h=308&f=png&s=136578)
+![1615c30cc3cfe199.png](http://upload-images.jianshu.io/upload_images/3072214-119bcab004b75fa1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ***
 ### Dash
 > Dash is an API Documentation Browser and Code Snippet Manager. Dash stores snippets of code and instantly searches offline documentation sets for 200+ APIs, 100+ cheat sheets and more. You can even generate your own docsets or request docsets to be included.
@@ -132,5 +153,11 @@ brew cask install mounty
 #### 官方网站：[Dash](https://kapeli.com/dash)
 #### 百度网盘
 链接:`https://pan.baidu.com/s/1c3UUEHU`  密码:`cvu9`
+![1615c3aa45f22f8c.png](http://upload-images.jianshu.io/upload_images/3072214-d682bbae0c5a4220.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+### iTerm 2
+> iTerm2 is a replacement for Terminal and the successor to iTerm. It works on Macs with macOS 10.10 or newer. iTerm2 brings the terminal into the modern age with features you never knew you always wanted.
 
-![](https://user-gold-cdn.xitu.io/2018/2/3/1615c3aa45f22f8c?w=2340&h=1170&f=png&s=374194)
+MAC上最好用的终端工具。
+#### 官方网站：[iTerm 2](http://www.iterm2.com/)
+相关博客：[MAC上iTerm 2安装与使用](https://www.jianshu.com/p/34e0f4d6f7c0)
+![屏幕快照 2018-02-12 下午5.53.58.png](http://upload-images.jianshu.io/upload_images/3072214-d562f11bbee9246b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
