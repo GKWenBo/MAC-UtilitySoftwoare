@@ -1,46 +1,47 @@
 # 前言
 > 自己使用Mac OS X系统也有一段时间了，也使用过许多MAC上好用的软件，下面是我对使用过和了解的软件资源一些整理。以后可能也会接触使用新的软件，我也会对文章进行更新。
 # 分类目录
-> **版本控制**
-> -  Cornerstone
-> -  Sourcetree
-> -  Tower
-> -  GitHubDesktop
+**版本控制**
+-  Cornerstone
+-  Sourcetree
+-  Tower
+-  GitHubDesktop
 
-> **办公**
-> - office2016
+**办公**
 
-> **效率**
-> -  Alfred
+- office2016
 
-> **实用**
-> -  Mounty
-> -  CleanMyMac
-> -  HideSwitch
-> -  LICEcap
+**效率**
+-  Alfred
 
-> **iOS开发必备**
-> -  Dash
-> -  真机调试包
+**实用**
+-  Mounty
+-  CleanMyMac
+-  HideSwitch
+-  LICEcap
 
-> **数据库管理**
-> -  Navicat
+**iOS开发必备**
+-  Dash
+-  真机调试包
 
-> **设计工具**
-> -  Sketch
+**数据库管理**
+-  Navicat
 
-> **MarkDown 工具**
-> - Typora
-> - iPic
-> - Cmd Markdown
-> - Sublime Text
+**设计工具**
+-  Sketch
 
-> **网络工具**
-> - shadowsocks
-> - Charles
+**MarkDown 工具**
+- Typora
+- iPic
+- Cmd Markdown
+- Sublime Text
 
-> **终端工具**
-> - iTerm 2
+**网络工具**
+- shadowsocks
+- Charles
+
+**终端工具**
+- iTerm 2
 
 # 版本控制
 ### Cornerstone
